@@ -1,5 +1,14 @@
 # sitetrax-dev-android
-This is the SiteTrax Android Software Development Kit (SDK) repository for sample code on how to properly encode videos for analysis by the SiteTrax backend network.
+This is the SiteTrax Android Software Development Kit (SDK) repository for sample code on how to properly encode videos for analysis by the SiteTrax backend network.  By using this SDK, you agree to the license agreement referenced below.
+
+# Compiling for the first time
+
+
+# How it works?
+
+
+# More information
+More information about SiteTrax API, please visit the Netarus Knowledgebase for the SiteTrax Backend at:   https://support.netarus.com/kb/faq.php?cid=5
 
 # license
 Terms and conditions 
